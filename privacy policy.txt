@@ -1,5 +1,5 @@
 Privacy Policy
-Certified Automotive Parts Association built the Capa Certified Parts app as a free app. This SERVICE is provided by Certified Automotive Parts Association [at no cost] and is intended for use as is.
+Certified Automotive Parts Association built the Capa Certified Parts app as a free app. This SERVICE is provided by Certified Automotive Parts Association at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -13,13 +13,13 @@ For a better experience while using our Service, we may require you to provide u
 
 Log Data
 
-We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devicesís Internet Protocol (ìIPî) address, device name, operating system version, configuration of the app when utilising [my|our] Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices‚Äôs Internet Protocol (‚ÄúIP‚Äù) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.
 
 Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Childrenís Privacy
+Children‚Äôs Privacy
 
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
@@ -30,5 +30,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-This Privacy Policy page was created at privacypolicytemplate.net.
